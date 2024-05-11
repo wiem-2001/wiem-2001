@@ -1,7 +1,6 @@
 <h1 align="center">Hey 🤩, I'm Wiem Ben Mansour</h1>
 <h3 align="center">a passionate software developer on an exhilarating journey through the world of technology. Currently pursuing an engineering degree, I'm on a mission to fuse theoretical knowledge with hands-on coding skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wiem-2001&label=Profile%20views&color=0e75b6&style=flat" alt="wiem-2001" /> </p>
 
 - 💬 Ask me about **Anything**
 
