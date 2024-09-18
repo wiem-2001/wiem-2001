@@ -1,29 +1,12 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/wiembenmansour/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="wiembm2001@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="wiem.benmansour@esprit.tn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.instagram.com/wiem.benmansour/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<h2 align="left">👋 Welcome to My GitHub!</h2>
 
 ###
 
-<h3 align="left">👋 Welcome to My GitHub!</h3>
+<h3 align="left">Hey there! I'm Wiem Ben Mansour, a passionate software engineer with a love for crafting web applications and exploring the world of DevOps. Whether you're here to explore my projects, get inspired, or collaborate, I'm glad you're stopping by!</h3>
 
 ###
 
-<h6 align="left">Hey there! I'm Wiem Ben Mansour, a passionate software engineer with a love for crafting web applications and exploring the world of DevOps. Whether you're here to explore my projects, get inspired, or collaborate, I'm glad you're stopping by!</h6>
-
-###
-
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -36,6 +19,10 @@
 ###
 
 <p align="left">🌊 When I'm not coding: If you’re searching for me and I’m not at my keyboard, you’ll probably find me out enjoying some water sports.</p>
+
+###
+
+<h2 align="left">🛠️  Tech  Stack</h2>
 
 ###
 
@@ -93,6 +80,27 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<h2 align="left">🌐 Socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wiembenmansour/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="wiembm2001@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="wiem.benmansour@esprit.tn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/wiem.benmansour/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
