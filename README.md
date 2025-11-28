@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hey there! I'm Wiem Ben Mansour, a passionate software engineer with a love for crafting web applications and exploring the world of DevOps. Whether you're here to explore my projects, get inspired, or collaborate, I'm glad you're stopping by!</h3>
+<h3 align="left">Hey there! I'm Wiem Ben Mansour, a passionate software engineer with a love for crafting web applications and exploring the world of DevOps and AI. Whether you're here to explore my projects, get inspired, or collaborate, I'm glad you're stopping by!</h3>
 
 ###
 
@@ -10,15 +10,20 @@
 
 ###
 
-<p align="left">👩‍💻Software Enthusiast: I’m passionate about web development and currently carving my path into the world of DevOps. As I dive deeper into mastering Docker and Kubernetes, I'm always eager to explore new tools and expand my skill set.</p>
+<p align="left">I’m passionate about web development and currently expanding my skills in DevOps and AI.
+Right now, I’m focusing on mastering tools like Docker and exploring practical, real-world technologies to grow my experience.
 
-###
+I’m actively looking for internship opportunities or project collaborations in:
 
-<p align="left">🚀 Driven by Curiosity: I see software as a tool to turn intriguing ideas into practical solutions. I’m always exploring new ways to innovate and solve problems, aiming to create meaningful impact with every project</p>
+🚀 Web Development 
 
-###
+🤖 AI / Machine Learning
 
-<p align="left">🌊 When I'm not coding: If you’re searching for me and I’m not at my keyboard, you’ll probably find me out enjoying some water sports.</p>
+🔧 DevOps 
+
+Always eager to learn, build, and contribute!</p>
+
+<p align="left">🌊 When I'm not coding:  If you’re searching for me and I’m not at my keyboard, you’ll probably find me out enjoying some water sports.</p>
 
 ###
 
@@ -80,6 +85,7 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </div>
 
 ###
@@ -101,6 +107,7 @@
   <a href="https://www.instagram.com/wiem.benmansour/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
+  
 </div>
 
 ###
